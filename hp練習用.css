@@ -1,0 +1,104 @@
+<!DOCTYPE html>body{
+    background-image:img/昭和記念公園.jpg;
+    /*--background-color:#90ee90;*/
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+h1{
+  font-size:30px;
+  font-family:"ＭＳ ゴシック";
+  background-color:#ffa500;
+}
+
+.私のインスタグラムで投稿している画像について{
+  font-size:30px;
+  font-family:"ＭＳ ゴシック";}
+  /*background-color:#db7093;
+}*/
+h4{
+  font-size:40px;
+
+}
+.main{
+  padding-top:10px;
+  font-family:"ＭＳ ゴシック";
+}
+/*読み取っていないか確認*/
+.main{
+  font-family:”sans-serif”;
+  font-size:25px;}
+
+  /*background-color:#90ee90;*/
+
+.footer-logo{
+  font-size: 30px;
+}
+.リンク集{
+  font-size:30px;
+  padding-top:10px;
+}
+.footer-logo{
+  font-size:30px;
+  padding-top:50px;
+  padding-bottom:20px;
+  background-color:#f0f8ff ;
+}
+
+li{
+    list-style: none;
+}
+.インスタ{
+  background-color:#f0f8ff ;
+}
+.メールアドレス{
+  background-color:#f0f8ff ;
+}
+.住所{
+  background-color:#f0f8ff ;
+}
+
+    <!--img src="img/昭和記念公園.jpg" width="400"--!>
+    <!--見出しについて--!>
+    <div class="見出し">
+      <h1>☆私のインスタグラムについて紹介します☆</h1>
+      </div
+
+    <div class="header">
+  <!--↓に説明--!>
+      <div class="私のインスタグラムで投稿している画像について"＞
+      <h2>私は趣味が写真撮影・ラーメン巡り・スポット探しですので</h2>
+      <h3>主に一眼レフで撮影した写真を主にアップしております。</h3>
+    </div>
+<!--ここまで見出し--!>
+<!--メインコンテンツ--!>
+    <div class="main">
+    <h4>メインコンテンツ</h4>
+      <ul>
+        <li>ポートレート</li>
+  <!--画像を挿入--!>
+        <img src="img/ポートレート.jpg" width="300" height="150" alt="ポートレート">
+        <li>ラーメン</li>
+        <img src="img/ラーメン.jpg" width="300" height="150" alt="ラーメン"
+  <!--画像を挿入--!>
+        <li>風景（画像は赤レンガ倉庫）</li>
+  <!--画像を挿入--!>
+      <img src="img/風景.jpg" width="300" height="150"
+    </div>
+
+  <div class="footer">
+    <div class="footer-logo">問い合わせ先</div>
+  <div class="リンク集"＞
+    <li></li>
+    <li class=インスタ>インスタID</li1>
+    <li class=メールアドレス>メールアドレス</li>
+    <li class=住所>住所</li>
+    
+  </div>
+
+
+
+
+
+
+</html>
